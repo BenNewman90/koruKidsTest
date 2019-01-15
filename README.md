@@ -1,2 +1,2 @@
-# koruKidsTest
-The technical test for Koru Kids
+# Koru Kids Technical Test
+This has been completed in node.js on the backend and React.js on the frontend
